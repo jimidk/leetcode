@@ -66,5 +66,5 @@ for i in range(3):
     else:
         print("FAIL")
 
-    print('----------------------')
+    print('-----------------------')
     
